@@ -1,0 +1,9 @@
+/ ==UserScript==
+// @name         [Script][Passei Direto] Remove register wall
+// @namespace    http://tampermonkey.net/
+// @version      1.0
+// @description  Remove pop-up for register
+// @author       Eduarda S. Weber
+// @match        *://www.passeidireto.com/*
+// @grant        none
+// ==/UserScript==
